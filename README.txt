@@ -41,4 +41,5 @@ API dokumentacije bo dosegljiva na http://localhost:8080/api/docs
 
 4. APK datoteko prenesite na telefon in jo namestite
 
-!!!!!Že pripravljena apk datoteka se nahaja v recepti_app\build\app\outputs\flutter-apk\app-release.apk
+!!!!!Že pripravljena apk datoteka, ki se jo lahko prenese na telefon in instalira, se nahaja v recepti_app\build\app\outputs\flutter-apk\app-release.apk
+
